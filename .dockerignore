@@ -1,0 +1,10 @@
+venv
+.env
+__pycache__/
+*.py[cod]
+*.pyo
+*.swp
+.DS_Store
+.git
+output/
+*.log
