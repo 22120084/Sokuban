@@ -3,4 +3,4 @@ Pillow
 
 # Thêm các thư viện phổ biến cho game logic (optional)
 numpy
-pygame
+pygame --only-binary :all:
