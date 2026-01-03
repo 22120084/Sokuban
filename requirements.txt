@@ -3,4 +3,5 @@ Pillow
 
 # Thêm các thư viện phổ biến cho game logic (optional)
 numpy
+pyinstaller
 
